@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl_predlosci_5.xsl" ?> 
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Rječnik biblijske kulture</title>
+    <respStmt>
+     <name xml:id="ib">
+      <forename>Ivana</forename> 
+      <surname>Pepić</surname>
+     </name>
+     <resp></resp>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <date when="2015">2015</date>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct>
+     <monogr>
+      <title>Katekizmi</title>
+      <author>
+       <forename></forename>
+       <surname></surname>
+      </author>
+      <imprint>
+       <pubPlace></pubPlace>
+       <publisher></publisher>
+       <date></date>
+      </imprint>
+     </monogr>
+    </biblStruct>   
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+    
+ <text>
+  <body>
+   <div type="rjecnik">	
+	<entry xml:id="1">
+     <form xml:lang="hr">
+      <orth>Ime</orth>
+     </form>
+	 <sense>
+	  <usg>Imena nisu obični nazivi; ona otkrivaju bit nekog bića ili njegovu sudbinu (Iz 1,26). Nešto imenovati znači učiniti da nešto postane. Tako Bog u Bibliji imenuje ono što je stvorio: dan, noć, nebo, zemlju... (Post 1,3-10). Dati ime znači također zavladati: Adam daje imena životinjama (Post 2,20). Prema Bibliji promjena imena označava novu etapu u životu: Abram postaje Abraham; Jakov Izrael; Šimun dobiva ime Petar (Iv 1,42). U judaizmu „Ime“ (hašem) označava Boga. Ako se zaziva vjerom, Isusovo ime može stvarati čuda jer podsjeća na njegovu moć (Dj 3,1-12).</usg>
+	 </sense>
+    </entry>
+	
+	<entry xml:id="2">
+     <form xml:lang="hr">
+      <orth>Ispraznost</orth>
+     </form>
+	 <sense>
+	  <usg>Hebrejska riječ koja se prevodi kao „ispraznost“ znači „isparavanje, para“. Dio je repertoara slika koje u hebrejskoj misli označavaju ljudsku krhkost (uz vodu, sjenu, dim). „Ispraznost“ je tema koju obrađuje Propovjednik ili Kohelet.</usg>
+	 </sense>
+    </entry>
+	
+	<entry xml:id="3">
+     <form xml:lang="hr">
+      <orth>Jahve</orth>
+     </form>
+	 <sense>
+	  <usg>Naziv nastao vokalizacijom Božjega imena od četiri slova, YHWH, koji se zove i tetragram. Njegova etimologija odgovara jednom obliku glagola „biti“, „postojati“. To je ime koje je sam Bog iz plamtećeg grma otkrio Mojsiju (Izl 3,14-15). Židovska predaja zabranjuje izgovaranje tetragrama i zamjenjuje ga s riječju Adonaj (Gospodin) ili ha Šem (Ime). Jehova je iskrivljenje tog imena.</usg>
+	 </sense>
+    </entry>
+	
+	<entry xml:id="4">
+     <form xml:lang="hr">
+      <orth>Ljubomora</orth>
+     </form>
+	 <sense>
+	  <usg>Božji epitet: „Bog tvoj oganj je što proždire, on je Bog ljubomoran“ (Pnz 4,24); prevodi hebrejsku riječ kana koja znači i „revan“. Ljubomora je nepovjerljiva briga kojom okružujemo one koje volimo kako bismo ih zaštitili od neprijatelja. Ali taj je oblik ljubavi zahtjevan i isključiv; ne podnosi nevjeru Izraela kojega zavode idolatrijski kultovi (Jr 7).</usg>
+	 </sense>
+    </entry>
+
+		<entry xml:id="5">
+     <form xml:lang="hr">
+      <orth>Nečistoća</orth>
+     </form>
+	 <sense>
+	  <usg>U početku je nečisto bilo sve što je onemogućavalo sudjelovanje u kultu (dodir leša, krvi, nekih bolesti, seksualni odnos) ili sve što je iz njega isključeno (neke životinje): riječ je, dakle, o obrednom, a ne moralnom stajalištu (Lev 11 do 15). Proroci, naprotiv, naglašavaju čistoću srca (Iz 1,16). Isus također osuđuje formalizam u koji katkad zapada Zakon o čistoći i podsjeća da čovjeka onečišćuje ono što izlazi iz njegova srca (Mt 15,1-20).</usg>
+	 </sense>
+    </entry>
+	
+	<entry xml:id="6">
+     <form xml:lang="hr">
+      <orth>Preljub</orth>
+     </form>
+	 <sense>
+	  <usg>U Bibliji su preljubnice udate žene ili zaručnice (u hebrejskom smislu) koje ne poštuju svoje obveze i muškarac koji vara svoju ženu s udatom ženom. Dekalog (Izl 20,14) formalno osuđuje preljub. Ako su preljubnici uhvaćeni na djelu, oboje se osuđuju na smrt (Lev 20,10). Ako je kriva žena, muž se može zadovoljiti time da je samo otjera. NZ također osuđuje preljub i čak mu proširuje značenje jer Isus, nakon što citira Dekalog, dodaje: „Tko god s požudom pogleda ženu, već je s njome učinio preljub u srcu“ (Mt 7-28). Ipak, suočen s preljubnicom koju žele kamenovati, Isus prkosi pismoznancima i farizejima: „Tko je od vas bez grijeha, neka prvi na nju baci kamen“. Oni se tada povlače. Ostavši sa ženom, Isus joj reče: „Ni ja te ne osuđujem“ (Iv 8,2-11). U SZ pojam preljuba analogijom se proširio na odnosr između Boga i naroda koji si je izabrao i s kojim se, preko Saveza zaručio (Hošeina knjiga). Kad se Izrael klanja idolima ili drugim bogovima, on postaje preljubnički narod i izaziva ljubomoru svog Boga. Hošea, Jeremija, Ezekijel nemaju dovoljno teških riječi kojima bi osudili nevjere Izraela koji je postao "bludnica".</usg>
+	 </sense>
+    </entry>
+	
+	<entry xml:id="7">
+     <form xml:lang="hr">
+      <orth>Rob/ropstvo</orth>
+     </form>
+	 <sense>
+	  <usg>Stanje čovjeka kojim gospodar može raspolagati po svojoj volji. Za roba i slugu SZ ima samo jednu hebrejsku riječ (ebed). Iako je teško razlikovati „ropstvo“ od „plaćene službe“, sigurno je da je u Izraelu postojalo ropstvo, osobito za ratne zarobljenike. O tome govore brojni tekstovi: prava robova (Izl 21,1-11.26-27); mogućnost oslobađanja (jubilarne godine); zabrana porobljavanja vlastitih sunarodnjaka; zahtjev za dobrim ponašanjem prema robovima: „Imaš li roba, postupaj s njim kao s bratom...“ (Sir 33,32). U NZ stanje je kao u cijelom grčko-rimskom svijetu gdje je ropstvo pravilo i gospodar nad robovima ima pravo života i smrti. Ali Pavao objavljuje duhovni preokret: „Nema više: rob – slobodnjak! ... Svi ste vi jedan u Kristu Isusu!“ (Gal 3,28). Filemonu piše da primi odbjeglog roba „kao brata ljubljenoga“ (Flm 16). S druge pak strane, svatko se može osloboditi od robovanja grijehu i strahu: „Ne primiste duh robovanja da se opet bojite, nego primiste Duha posinstva“ (Rim 8,15).</usg>
+	 </sense>
+    </entry>
+	
+	<entry xml:id="8">
+     <form xml:lang="hr">
+      <orth>Subota/šabat</orth>
+     </form>
+	 <sense>
+	  <usg>(heb. šavat, „prestati, ne raditi“) Sedmi dan u tjednu posvećen odmoru po ugledu na Boga koji se taj dan odmarao nakon što je za šest dana stvorio svijet (Izl 20,8-11). Čovjek na taj dan mora dati slobodu svemu što o njemu ovisi (uključujući životinje), sjećajući se kako je Bog njega oslobodio ropstva u Egiptu (Pnz 5,14-15). S vremenom šabat postaje jedna od osnovnih značajki judaizma, ali duh Zakona taj dan radosti katkad pretvara u dan prisile, predmet mnogih zabrana (Izl 31,14-15). Isus podsjeća da je: „Subota stvorena radi čovjeka, a ne čovjek radi subote“ (Mk 2,27). Postojala je i „subotnja godina“: svake sedme godine zemlja je morala ostati neobrađena i morali su se vratiti dugovi i osloboditi robovi (Lev 25).</usg>
+	 </sense>
+    </entry>
+	
+	
+    
+   </div>
+  </body>
+ </text>  
+</TEI>

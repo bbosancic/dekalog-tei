@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="deset_bozjih_zapovijedi.xsl" ?>
+<TEI>
+     <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deset Božjih zapovijedi: elektronička verzija</title>	
+            <respStmt>
+               <resp xml:lang="en">compiled by</resp>
+               <name xml:id="nj">
+                  <forename>Ivana</forename>
+                  <surname>Pepić</surname>
+               </name>
+            </respStmt>
+            <respStmt>
+               <name xml:id="bb">
+                  <forename>Boris</forename> 
+                  <surname>Bosančić</surname>
+               </name>
+               <resp>enkoder</resp>
+               <resp xml:lang="en">encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+		    <publisher></publisher>
+            <date when="2015">2015</date>
+         </publicationStmt>
+         <sourceDesc>
+			<listWit>
+              <witness n="1" xml:id="_Bsn">
+				<bibl>
+                    <title>Biblija: Stari i Novi zavjet</title>
+                     <author></author>
+                     <editor></editor>
+                     <date></date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note></note>
+                </bibl>
+			  </witness>
+			  
+			  <witness n="2" xml:id="Mar">
+				<bibl>
+                    <title>Slavonske libarice</title>
+                     <author>
+						<persName>
+							<forename>Matija Antun</forename>
+							<surname>Relković</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1761">1761</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizmi kanizijevske tradicije</note> 
+                </bibl>
+			  </witness>
+			  
+			  <witness n="3" xml:id="Ak">
+				<bibl>
+                    <title>Mala i svakomu potribna bogoslovica</title>
+                     <author>
+						<persName>
+							<forename>Antun</forename>
+							<surname>Kanižlić</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1773">1773</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizmi kanizijevske tradicije</note>
+                </bibl>
+			  </witness>
+				
+			  <witness n="4" xml:id="Ig">
+				<bibl>
+                    <title>Put nebeski</title>
+                     <author>
+						<persName>
+							<forename>Ivan</forename>
+							<surname>Grličić</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1707">1707</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizmi bellarminovske tradicije</note> 
+                </bibl>
+			  </witness>
+			  
+			  <witness n="5" xml:id="Jl">
+				<bibl>
+                    <title>Dušu čuvajuće pohođenje</title>
+                     <author>
+						<persName>
+							<forename>Jerolim</forename>
+							<surname>Lipovčić</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1750">1750</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizmi bellarminovske tradicije</note> 
+                </bibl>
+			  </witness>
+			
+			  <witness n="6" xml:id="Djr">
+				<bibl>
+                    <title>Satir iliti divji čovik u nauku krstjanskom ubavistit</title>
+                     <author>
+						<persName>
+							<forename>Đuro</forename>
+							<surname>Rapić</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1766">1766</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizmi bellarminovske tradicije</note> 
+                </bibl>
+			  </witness>
+				
+			  <witness n="7" xml:id="Ep">
+				<bibl>
+                    <title>Jezgra rimskoga pravovirnoga nauka krstjanskoga</title>
+                     <author>
+						<persName>
+							<forename>Emerik</forename>
+							<surname>Pavić</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1769">1769</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizam po uzoru na Rimski katekizam</note> 
+                </bibl>
+			  </witness>
+				
+			  <witness n="8" xml:id="Ab">
+				<bibl>
+                    <title>Istina katoličanska</title>
+                     <author>
+						<persName>
+							<forename>Antun</forename>
+							<surname>Bačić</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1732">1732</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Kontroverzijski katekizam</note>
+                </bibl>
+			  </witness>
+
+			  <witness n="10" xml:id="Ajt">
+				<bibl>
+                    <title>Nauk krstjanski vire svete u hagiografskom spjevu Život svetoga Eustahije</title>
+                     <author>
+					 <persName>
+						<forename>Antun Josip</forename>
+						<surname>Turković</surname>	
+					 </persName>
+					 </author>
+                     <editor></editor>
+                     <date when="1795">1795</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizam neutvrđene katekizamske tradicije</note> 
+                </bibl>
+			  </witness>
+
+			  <witness n="11" xml:id="Jm">
+				<bibl>
+                    <title>Bogoljubne pisme</title>
+                     <author>
+					 	<persName>
+							<forename>Juraj</forename>
+							<surname>Mulih</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1736">1736</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                    <note>Katekizamska pjesmarica</note>
+                </bibl>
+			  </witness>
+			  
+			  <witness n="12" xml:id="Iv">
+				<bibl n="12" xml:lang="hr" xml:id="iv">
+                    <title>Upućenja katoličanska (I-II)</title>
+                     <author>
+						<persName>
+							<forename>Ivan</forename>
+							<surname>Velikanović</surname>	
+						</persName>
+					  </author>
+                     <editor></editor>
+                     <date when="1788">1787-88</date>
+                     <pubPlace></pubPlace>
+                     <publisher></publisher>
+                     <note>Katekizam reformnog katolicizma</note>
+                </bibl>
+			  </witness>
+			</listWit>
+         </sourceDesc>
+      </fileDesc>
+    <encodingDesc>
+       <variantEncoding method="location-referenced" location="internal"/>
+       </encodingDesc>
+ </teiHeader>
+   
+   <text>
+      <body>
+         <div type="katekizam">
+            
+               <lg n="1" type="10zapovijedi">
+                  		  
+                  <l n="1">
+                     <app>
+                        <rdg wit="#_Bsn">Ja sam <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj, koji sam te izveo iz zemlje egipatske, iz kuće <ref target="rjecnik.xml#7">ropstva</ref>. Nemoj imati drugih bogova uz mene. Ne pravi sebi lika ni obličja bilo čega što je gore na nebu, ili dolje na zemlji, ili u vodama pod zemljom. Ne klanjaj im se niti im služi. Jer ja, <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj, Bog sam <ref target="rjecnik.xml#4">ljubomoran</ref>. Kažnjavam grijeh otaca – onih koji me mrze – na djeci do trećeg  i četvrtog koljena, a iskazujem milosrđe tisućama koji me ljube i vrše moje zapovijedi (Izl 20,2-6; Pnz 5,6-10).<s>Reče mu potom Isus: "Odstupi, sotono, jer je pisano: 'Gospodinu, Bogu svojemu klanjaj se, njemu jedinomu služi!'" (Mt 4,10).</s>
+						<note>Prvi dio izraza („Ja sam <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj, koji sam te izveo iz zemlje egipatske, iz kuće ropstva“) uvod je u cijeli Dekalog. U njemu se Bog predstavlja kao osloboditelj i proglašava se Jahvin autoritet. Drugi je dio prva zapovijed koja se tumači kao potvrda monoteizma te osuda mnogoboštva i idolatrije. Nastavak zapovijedi („Ne pravi sebi lika ni obličja...“) zabranjuje svaki idolatrijski simbol, tj. ne zabranjuje pravljenje religioznih slika i kipova kao takvih nego njihovo diviniziranje, kultno čašćenje. Naglašava se Jahvina transcendentnost i sloboda od bilo kakvog instrumentaliziranja. Posljedice pak kršenja zapovijedi ne osjeća samo prekršitelj, nego i njegovi bližnji, tj. ističe se međusobna odgovornost ljudi jednih za druge. </note>
+						</rdg>
+						<rdg wit="#Mar">
+						Ja sam Gospodin Bog tvoj, nemoj imati drugoga boga izvan mene.
+						<note>Navode se grijesi protiv zapovijedi: loša ispovijed, sumnja u određene stavke vjere, heretičke i praznovjerne misli i radnje, psovanje Boga i vjere, proklinjanja, navođenje drugih na grijehe, oholost i dr.</note>
+						</rdg>
+						<rdg wit="#Ak">
+						Ja sam Gospodin Bog tvoj, nejmaj drugih bogova izvan mene.
+						<note>O značenju prve zapovijedi doznaje se kroz govor o: zabrani krivobožtva, nevirstva, izpraznog povirovanja, čarki, bajanja i gatanja, ali i o dopuštenom korištenja trava i drugih stvari u slučaju bolesti, s tim da se ne smiju izgovarati isprazne riječi. Zatim, o načinu štovanja svetaca i Djevice Marije kaže se da svece treba štovati manje nego Boga, a Djevicu Mariju više nego svece, ali opet manje nego samog Boga. Dopušteno je i štovanje prilika, kipova i kosti svetih, čija je uloga probuditi ljubav prema Bogu i štovanje prema svecima.</note>
+						</rdg>
+						<rdg wit="#Ig">Ja sam Gospodin Bog tvoj, ne imaj drugoga Boga izvan mene.
+						<note>Među brojnim grijesima protiv vjere ističe se izdvajanje nevjernika i po vjeru opasnih ljudi kao što su: Čifuti (Židovi), vračare, Ciganke, bajalice; osuđuje se gatanje i magija kojom se traži pomoć od duha paklenoga, te praznovjerje  kao oblik vjerovanja u moć djelovanja raznih drugih nadnaravnih i magijskih sila, tj. vjerovanja u astrologiju, horoskop i zaštitničku moć amajlija. Navode se i primjeri grijeha svetogrđa: udaranjem ili psovanjem redovnika, ubojstvom u crkvi, uvođenjem konja u crkvu i dr. Osuđuju se i: simonija, idolopoklonstvo, samoubojstvo te nebriga za siromašne.</note></rdg>
+						<rdg wit="#Jl">Ja jesam Gospodin Bog tvoj, ne imaj drugog boga osim mene.
+						<note>Tumačenjem što zlamenuje prva zapovijed saznaje se zapravo kako griješi onaj koji: ima bilo kakav doticaj i odnos s nevjernicima (naročito Čifutima, tj. Židovima), vjeruje vračaricama, Cigankama i drugim bajalicama da ga izliječe ili predvide mu budućnost (npr. ovčari, konjušari, pastiri, kovači, babice), čini nepoštenje svetim stvarima i dr. Lipovčić daje i savjete kako treba putovati/hodočastiti a da se ne sagriješi: nije dobro u nedjelju ili svetac putovati, ali ako ne može drugačije, neka se barem misa odsluša. Osuđuje se traženje pomoći (u zdravlju, porodu, bogatstvu, nauku, ženidbi) od duha paklenoga uz pomoć kostiju mrtvaca, vlasi, noktiju, krvi, odjeće i drugih stvari. U odnosu na prvu zapovijed može se reći kako ona najviše zabranjuje čaranje i vračanje, a kao likarije Lipovčić preporučuje: čestu ispovijed i pričest, pedipsanje tijela i post, često činjenje križa nad sobom i djecom, držanje svete vode u kući i često škropljenje kuće, sebe i mlađih te nošenje jaganjca Božjega, tj. bijeloga voska od Svetog Oca Pape blagoslovljenog.</note></rdg>
+						<rdg wit="#Djr">Ne imaj drugoga Boga izvan mene.
+						<note>Ne sagriješiti protiv prve zapovijedi znači ne klanjati se nijednoj stvari kao Bogu, primjerice suncu ili mjesecu kao što su činili stari neznabošci, a Bog strašno kara (čak do četvrtog koljena) sve one koji se bave magijom i gatanjem: čarature, vištice, bajalice, idolopoklonike koji izrađuju kipove od zlata, srebra, drveta, mramora, bronce i njima se klanjaju kao božanstvu. Štovanje svetaca i njihovih relikvija nije zabranjeno, međutim svaki oblik praznovjerja jest, čak i kad je u pitanju zdravlje čovjeka.</note></rdg>						
+						<rdg wit="#Ep">Viruj u samo jednoga Boga.
+						<note>Pozivanjem na Matejevo evanđelje (Gospodinu Bogu tvomu klanja ćeš se i njemu ćeš samomu služiti. Matth. 4. 10.) opravdava se vjerovanje u samo jednoga Boga, s tim da nije grijeh klanjati se i zazivati svece te štovati njihove kipove i relikvije.</note></rdg>
+						<rdg wit="#Ab">Ja jesam Gospodin Bog tvoj, nemoj imati bogova tuđije prida mnom.
+						<note>O zakonu vjere govori se na dva načina: ukazujući i zabranjujući. Prvo značenje odnosi se na vjeru, ufanje i ljubav prema Bogu, a drugo zabranjuje služenje idolima, nevjeru i drugo. Kada se govori o ljubavi, najvećoj kreposti koja najprije podrazumijeva ljubav prema Bogu i sebi samome, nemalo riječi posvećeno je dužnosti ljubavi prema iskrnjemu (bio pravedan ili nepravedan, eretik ili neznabožac). Osim rodbinskih i prijateljskih veza i duhovna, pastoralna veza paroka (svećenika) s njegovim stadom (pastvom) obvezujuće je naravi, jer i u najtežim trenucima kao što je vrijeme kuge, glada ili vojske (rata) on ne ostavlja svoje vjernike. Među grešne nevjernike ubrajaju se Čifuti, pogani i heretici, a osim nevjere, navodi se i grijeh superstitio (praznovjerje) sa svoje tri vrste: idolatrijom, pogađanjem budućih događaja i ispraznim zamirenjem. U zabranjujuće značenje prve Božje zapovijedi spadaju i grijesi protiv stvari svete, tj. protiv persone, mista i stvari svetih.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ja jesam Gospodin Bog tvoj, nejmaj drugi bogova izvan mene.
+						<note>Grijesi protiv prve zapovijedi su: lijenost i stid zbog slušanja nauka krstjanskoga te govorenja djela ufanja i ljubavi, sumnja u neke stavke vjere (npr. pakao), gatanje, bajanje, čarke, zanemarivanje molitve, podsmjehivanje Bogu, svecima, križu, svetim slikama ili crkvenim običajima, nepoštivanje duhovnika i dr.</note></rdg>
+						<rdg wit="#Jm">Poznaj, ljubi, poštuj Boga, / Stvoritelja Oca tvoga, / Čaralije na kraj stavi, / Na Boga se vas ostavi.<note></note></rdg>
+						<rdg wit="#Iv">Ja sam Gospodin Bog tvoj koji sam izveo tebe iz zemlje Egipta, iz kuće sužanstva. Ne imaj bogove tuđe izvan mene. Ne učini tebi kip izrizan, ni ikakvu priliku koja je u nebu gori i koja je na zemlji doli, niti onih koje su u vodah pod zemljom. Niti se klanjaj njima, niti štuj, ja sam Gospodin Bog tvoj jaki.
+						<s>Gospodinu Bogu tvomu klanjaj se i njemu samu služi.</s>
+						<s>Jednog poštuj Boga časno.</s>
+						<note>Najčešći su grijesi protiv prve zapovijedi svetogrđe i krivoštovanje. Dok se prvo odnosi na oskvrnjenje svetih stvari, drugo označava: štovanje Boga ispraznim, suvišnim i od Crkve zabranjenim načinom, kipočastenje, tj. kada se bogočasti neko stvorenje, a ne Bog, ugovor s vragom i različite vrste gatanja.</note></rdg>
+                     </app>
+				  </l>
+				  
+                  <l n="2">
+					<app>
+                        <rdg wit="#0Bsn">Ne uzimaj uzalud <ref target="rjecnik.xml#1">imena</ref>
+						<ref target="rjecnik.xml#3">Jahve</ref>, Boga svoga, jer <ref target="rjecnik.xml#3">Jahve</ref> ne oprašta onome koji uzalud izgovara <ref target="rjecnik.xml#1">ime</ref> njegovo (Izl 20,7; Pnz 5,11).<s>Rečeno je starima: "Ne zaklinji se krivo. A ja vam kažem: Ne kunite se nikako!" (Mt 5,33-34).</s>
+						<note>Zapovijed se odnosi na zabranu zloporabe <ref target="rjecnik.xml#1">imena</ref> Božjega. U Bibliji i semitskom svijetu ime nije značilo samo izvanjsku oznaku nekog bića, nego je izražavalo njegovu narav i sadržaj. Načini na koje se profaniralo ime Božje bili su: uporaba Božjega <ref target="rjecnik.xml#1">imena</ref> u magijske svrhe, (kriva) zakletva, psovka i proklinjanje. Bog jest blizu ljudima, ali ne i na raspolaganju da se njime upravlja.</note></rdg>
+						<rdg wit="#Mar">Ne uzmi <ref target="rjecnik.xml#1">ime</ref> gosp[odina] Boga tvoga u usta tvoja zaludu.
+						<note>Spominju se uglavnom grijesi koji se tiču zaklinjanja, i to s vrlo konkretnim primjerima zakletvi (npr. „na moju dušu“) te neprimjereno odnošenje prema svetim riječima i Božjem imenu.</note>
+						</rdg>
+						<rdg wit="#Ak">Ne uzmi <ref target="rjecnik.xml#1">ime</ref> Gospodina Boga tvoga u <ref target="rjecnik.xml#2">izpraznost</ref>.
+						<note>Naglašava se važnost poštivanja imena Božjega; ispunjavanja obećanja i zakletvi koje se odnose na dobra djela, zaklinjanja Bogom samo za ono što je istina, što je za veliku potrebu i korist te za ono što je dobro i korisno.</note></rdg>
+						<rdg wit="#Ig">Ne zakuni se u <ref target="rjecnik.xml#2">izpraznost</ref> <ref target="rjecnik.xml#1">imenom</ref> Božjim.
+						<note>Nepoštivanje imena Božjega iskazuje se: lažnim zaklinjanjem, neispunjavanjem zakletve i zavjeta, psovanjem i zlim zavjetima.</note></rdg>
+						<rdg wit="#Jl">Ne uzmi zaludu <ref target="rjecnik.xml#1">ime</ref> moje u usta tvoja.<note>Druga zapovijed nalaže poštivanje imena Božjega kao i svih svetih stvari (crkava, oltara, križa, svetih prilika, sakramenata i dr.), te tumači tri načina kojima se može učiniti nepoštenje navedenim stvarima. Prvi je krivim zaklinjanjem u svete stvari, drugi je kada se čini nepoštenje Bogu i svetim stvarima onaj po psovki, oholome djelu ili njihovom pogrđivanju i treći je način neispunjavanjem zavjeta dobrih djela prema Bogu ili svecima (babski zaviti), odnosno zavjetovanjem na činjenje zla.</note></rdg>
+						<rdg wit="#Djr">Ne uzmi <ref target="rjecnik.xml#1">ime</ref> Božje u <ref target="rjecnik.xml#2">izprazno</ref>.
+						<note>Uzeti ime Božje u isprazno krivim zaklinjanjanjem i psovkom također je općepoznati smrtni grijeh protiv nauka vjere. Znakovit je primjer krivokletnika koji navodi Satir, a to je trgovac koji se krivo zaklinje ne bi li skuplje prodao svoju robu ili espap. Psovanje u Rapićeva Redovnika opisuje se u čak šest vrsta, a među navedenima izdvaja se peta vrsta koja brani dostojanstvo i čast tijela Boga i svetaca.</note></rdg>				
+						<rdg wit="#Ep">Ne uzmi u <ref target="rjecnik.xml#2">isprazno</ref> <ref target="rjecnik.xml#1">ime</ref> Božje.
+						<note>Ime Božje poštuje se na više načina, a prvi je kad se javno i slobodno ispovijeda vjera u Boga. Dopušteno je zaklinjati se njegovim imenom za potvrdu istine dok bogopsovstvo i krive zakletve pogrđuju ime Božje. Kazna je utvrđena starozavjetnim pravom: Koji opsuje Ime Božje, [smrćom] ima pokaran biti. Lev. 24. 16.</note></rdg>		
+						<rdg wit="#Ab">Ne uzmi <ref target="rjecnik.xml#1">ime</ref> Gospodina Boga tvoga u <ref target="rjecnik.xml#2">ispraznost</ref>.
+						<note>Druga Božja zapovijed tumači se prvenstveno kroz svoje zabranjujuće značenje. Naime, zabranjuju se zakletva i psost (psovka) te zahtijeva potpuno ispunjenje zavjeta danih Bogu. Zakletva je zazivanje Boga za svjedoka koji potvrđuje istinitost nekog govora, a ostvaruje se na dva načina: kada se imenuje izravno Bog i neizravno imenovanjem nekog Božjeg stvorenja (sunca, neba, zemlje...). To su ujedno i prave zakletve, za razliku od zaklinjanja odjećom, bradom i sl. – to niti je zakletva, niti grijeh. Postoji razlika i između zakletve Bogu i zakletve na svjetovnom sudu, jer Bog prima zakletvu koja se čini iz srca, a sud zakletvu koja se čini po riječi.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ne uzmi <ref target="rjecnik.xml#1">ime</ref> Gospodina Boga tvoga u usta tvoja zaludu.
+						<note>Čovjek narušava svoj odnos s Bogom i: ispraznim i krivim zaklinjanjem, proklinjanjem, nedostojnim spominjanjem imena Isusa i Marije, vjere, duše, neizvršavanjem zavjeta te neispunjavanjem zakletve.</note></rdg>
+						<rdg wit="#Jm">Poštuj vazda Božje <ref target="rjecnik.xml#1">ime</ref>, /  Ne kuni se nikad š njime, / Nit z bogmanjem laž potvrdi, / Niti vire ne pogrdi.<note></note></rdg>
+						<rdg wit="#Iv">Ne uzmi <ref target="rjecnik.xml#1">ime</ref> Gospodina Boga tvoga u <ref target="rjecnik.xml#2">izprazno</ref>. Neće bo imati pravedna Gospodin onoga koji uzme <ref target="rjecnik.xml#1">ime</ref> Boga svoga zaludu.
+						<s>Ne uzmi <ref target="rjecnik.xml#1">ime</ref> Boga tvoga u <ref target="rjecnik.xml#2">izprazno</ref>.</s>
+						<s>Nit s <ref target="rjecnik.xml#1">imenom</ref> kuni <ref target="rjecnik.xml#2">prazno</ref>.</s>
+						<note>I dok se sveto ime Božje slavi i poštuje molitvom, svetim razgovorima, dobrim primjerima, pobožnim življenjem i činjenjem zavjeta, pogrđuje se taštom i bespotrebnom zakletvom, krivokletstvom i bogopsovkom.</note></rdg>
+                  </app>
+				  </l>
+				  
+                  <l n="3">
+				  <app>
+                        <rdg wit="#0Bsn">Sjeti se da svetkuješ dan subotnji. Šest dana radi i obavljaj sav svoj posao. A sedmoga je dana <ref target="rjecnik.xml#8">subota</ref>, počinak posvećen <ref target="rjecnik.xml#3">Jahvi</ref>, Bogu tvojemu. Tada nikakva posla nemoj raditi: ni ti, ni sin tvoj, ni kći tvoja, ni sluga tvoj, ni sluškinja tvoja, ni živina tvoja, niti došljak koji se nađe unutar tvojih vrata. Ta i <ref target="rjecnik.xml#3">Jahve</ref> je šest dana stvarao nebo, zemlju i more i sve što je u njima, a sedmoga je dana počinuo. Stoga je <ref target="rjecnik.xml#3">Jahve</ref> blagoslovio i posvetio dan subotnji (Izl 20,8-11).
+						Dan subotnji obdržavaj i svetkuj, kako ti je naredio <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj. Šest dana radi i obavljaj sav svoj posao. A sedmoga je dana <ref target="rjecnik.xml#8">subota</ref>, počinak posvećen <ref target="rjecnik.xml#3">Jahvi</ref>, Bogu tvome. Tada nikakva posla nemoj raditi: ni ti, ni sin tvoj, ni kći tvoja, ni sluga tvoj, ni sluškinja tvoja, ni vol tvoj, ni magarac tvoj, niti ikakvo živinče tvoje, niti došljak koji je unutar tvojih vrata; tako da mogne otpočinuti i sluga tvoj, i sluškinja tvoja kao i ti. Sjeti se da si i ti bio <ref target="rjecnik.xml#7">rob</ref> u zemlji egipatskoj i da te odande izbavio <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj, rukom jakom i ispruženom mišicom. Zato ti je zapovjedio <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj, da držiš dan subotnji (Pnz 5,12-15)<s><ref target="rjecnik.xml#8">Subota</ref> je stvorena radi čovjeka, a ne čovjek radi <ref target="rjecnik.xml#8">subote</ref>. Sin Čovječji gospodar  je <ref target="rjecnik.xml#8">subote</ref> (Mk 2,27-28).</s>
+						<note>Poticaj na duboko razmišljanje o posveti vremena temeljno je značenje ove zapovijedi. U semitskom mentalitetu „sjeti se“ ne znači samo prenijeti se duhom u prošlost, nego je to istovremeno radnja koja uprisutnjuje, čini aktualnom stvarnost koje se sjeća. Posvećivanje sedmoga dana u tjednu podrazumijeva počinak od rada te bavljenje Bogom i samim sobom kroz slavljenje euharistije i zajedništvo s drugim ljudima. Nakon Kristova uskrsnuća kršćani su uz <ref target="rjecnik.xml#8">subotu</ref>, istodobno, počeli slaviti i „dan iza subote“, „prvi iza subote“, „prvi dan u tjednu“, tj. nedjelju. Tek kad je car Konstantin 321. god. uzdigao kršćanstvo na razinu državne religije i odredio nedjelju kao dan počinka za sve svoje podanike, kršćani su treću zapovijed počeli dovoditi u vezu sa slavljenjem kršćanske nedjelje.</note>
+						</rdg>
+						<rdg wit="#Mar">Spomeni se da svetkovine svetiš.
+						<note>Nedjelje i svetkovine svetilo se prvenstveno slušanjem mise, predike i molitvom, stoga ako bi se nešto od toga izostavilo ili učinilo na nepobožan način, npr.: razgovaranje, smijanje i gledanje druge čeljadi na misi, rastrkana pamet u crkvi i ometanje drugih u molitvi – bio bi to grijeh. Osim tih i druge radnje u te svete dane bile su grešne: činjenje velikog posla, igranje, pirovanje, šetanje, isprazni razgovori, pijančevanje, divani i dr.</note>
+						</rdg>						
+						<rdg wit="#Ak">Spomeni se da posvetiš dan svečani.
+						<note>Nedjelja i druge svetkovine svetkuju se na način da se sluša sveta misa i nauk te činjenjem dobrih djela, a zabranjuju se: majstorski poslovi, oranje, trgovanje, igranje u kolu i dr.</note></rdg>
+						<rdg wit="#Ig">Posveti dan svečani.
+						<note>Zapovijed je da se u nedjelju i druge svetkovine ne bi smio činiti nijedan tjelesni (fizički) posao koji se pristoji slugama (kopanje, oranje, zidanje, šivanje i dr.), posao u kojem se čovjek previše zabavlja (trgovanje, suđenje, svjedočenje, trgovanje...) i posao koji nije neophodan. Osim toga, dužnost je vjernika poslušati misu, nauk vjere, nastojati činiti dobra djela i moliti se Bogu.</note></rdg>
+						<rdg wit="#Jl">Posveti dan svečani kao i nedilju.
+						<note>Grijesi protiv poštivanja nedjelje i ostalih svetkovina su: oranje, kopanje, šivanje, trgovanje, svjedočenje, proždrljivost i pijanstvo, izostanak s mise, nepobožno slušanje mise, prekomjerno uljepšavanje kod gospoja, posao koji obavljaju advokati i notari, igranje u kolu, kockanje i dr. Umjesto takvog ponašanja, u katekizmu se preporučuje u te dane pričestiti, slušati prediku, nauk krstjanski, pohoditi bolesnike, razgovarati sa sužnjima i tamničarima te činiti druga dobra djela.</note></rdg>
+						<rdg wit="#Djr">Spomeni se posvetiti dneve svečane.
+						<note>Značenje treće zapovijedi tumači se kao zahtjev: uzdržati se od svakoga dila službenog. Dopušten je, dakle, posao iz vlastite i potrebe bližnjega, opć(insk)e potrebe i malahni posao koji za obavljanje treba maloću vremena (jednu uru). Redovnik tako od grijeha izuzima opć(insk)e prigode, veselja, komedije ili lakrdije te posao kiridžijaša da voze (prodaju) espap (robu) od mjesta do mjesta. Međutim, cjelodnevna veselja i tjelesne naslade nisu dopuštene (npr. u igri, kolu, jelu, piću...).</note></rdg>			
+						<rdg wit="#Ep">Posveti dneve svečane.<note>Posveta svečanog dana ne znači samo se ustegnuti od službenog posla, već je potrebno i slušati misu i prediku te činiti djela milosrđa (naročito prema siromašnima). Za nedopuštena veselja (jelo, piće, igra...) kazna je smrtna: onaj čovik, koji u subotu drvaca kupljaše, na zapovid Gospodinovu jest kamenovan bio. Num. 15. 36.</note></rdg>						
+						<rdg wit="#Ab">Spomeni se posvetit dan <ref target="rjecnik.xml#8">subotnji</ref>.
+						<note>Služiti Bogu idući u crkvu, slušajući misu i nauk krstjanski te ustezajući se od dilovanja svitovnjih – osnovne su smjernice kako svetkovati. Budući da je prilično jasno što uključuje pobožno ponašanje tih dana, Bačić se usredotočuje na nabrajanje i tumačenje svega onoga što se zabranjuje (orati, kopati, trgovati...). S druge strane, nije grihota u svetkovinu pisati, štiti, učiti, kriposne stvari činiti, loviti za špaš, putovati, maljati (ali ne i boje trti), kuvati, raditi za općinsko dobro (npr. graditi ćuprije, popravljati putove i dr.).</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Spomeni se da posvetiš dan svečani.
+						<note>Protiv treće zapovijedi griješi se: propuštanjem nedjeljne svete mise, zadržavanjem i ometanjem drugih da idu na svetu misu, kašnjenjem na misu, nepobožnim ponašanjem na misi (razgovaranje, smijanje, spavanje, nedostojno stajanje), neslušanjem predike i nauka krstjanskog, nečinjenjem djela milosrđa prema bolesnima, dangubljenjem (spavanje, igranje, sjedenje na divanu, pijenje po cijeli dan), radom bez velike potrebe ili naređivanjem podložnicima da rade, pripuštanjem grješnih sastanaka, skupština, igara, divana, nepoštenih sastanaka i razgovora u kuću te nečitanjem bogoslovice i nauka krstjanskoga svojim ukućanima. Na potonje grijehe Turković se prijekorno osvrnuo i u predgovoru spjeva, preporučujući čitanje svoje knjige kao bogougodan čin.</note></rdg>
+						<rdg wit="#Jm">Spomeni se da svečane, / I nedilnje svetiš dane, / Niti posluj, nit lin sidi, / Čuj prodiku, misu vidi. /<note></note></rdg>
+						<rdg wit="#Iv">Spomeni se dan <ref target="rjecnik.xml#8">subotni</ref> posvetiti. Šest danah poslovaćeš i činiti sva dila tvoja. A sedmi dan <ref target="rjecnik.xml#8">subota</ref> Gospodina tvoga jest; nijedno dilo u nju nećeš činit ti i sin tvoj i kći tvoja, sluga tvoj i službenica tvoja, živinče tvoje i prišlac koji je u kući tvojoj.
+						<s><ref target="rjecnik.xml#8">Subotu</ref>, to jest nedilju, posveti.</s>
+						<s>Veće i jošt dan svetčani.</s>
+						<note>Bog se časti i svetkovanjem nedjelje, a to znači suzdržavanje od svakog posla rabotnoga i zabavljanje u dilima bogočastenja. Za razliku od dila rabotnih druge vrste (rad za uzdržavanje života i plaću te grješno djelovanje), dila rabotna prve vrste, tj. kada je teška potreba ili velika opća korist u pitanju, mogu se obavljati, ali uz prethodno dopuštenje duhovnog pastira. Dila bogočastenja su pak slušanje mise, propovijedi, nauka vjere, čitanje bogoljubnih knjiga, a nasuprot provođenju vremena u bludnosti, jelu, piću, igrama, tancanju i dr.</note></rdg>
+                  </app>
+				  </l>
+				  
+                  <l n="4">
+				  <app>
+						<rdg wit="#0Bsn">Poštuj oca svoga i majku svoju da imadneš dug život na 
+						zemlji koju ti dâ <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj (Izl 20,12).
+						Poštuj oca svoga i majku svoju, kako ti je <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj, zapovjedio, da dugo živiš i dobro ti bude na zemlji koju ti <ref target="rjecnik.xml#3">Jahve</ref>, Bog tvoj, daje (Pnz 5,16).<s>I bijaše im poslušan (Lk 2,51). 
+						Sam Gospodin Isus istaknuo je važnost te "Božje zapovijedi" (Mk 7,8-13). 
+						Apostol uči: "Djeco, slušajte svoje roditelje u Gospodinu, jer je to pravedno. "Poštuj oca svoga i majku - to je prva zapovijed s obećanjem: da ti dobro bude i da dugo živiš na zemlji" (Ef 6,1-3).</s><note>S ciljem uređivanja odnosa između roditelja i djece, odnosno stvaranja zdrave ljudske obitelji koja je jezgra ljudskog društva, to je prva i osnovna zapovijed za odvijanje društvenoga života. Zapovijed ne pravi nikakve razlike između oca i majke, jednakopravni su glede poštovanja koje im duguju djeca. Poštovanje roditelja uključuje: uvažavanje, povjerenje, odanost, poslušnost, skrb, prihvaćanje i dr. Četvrta zapovijed može se tumačiti i kao protest protiv poganskog običaja da se ostavljaju ostarjele osobe kad ne mogu više uzdržavati same sebe. S druge strane, poslušnost prema roditeljima ne smije se apsolutizirati, tj. roditelji bi jednako tako trebali uvažavati osobnost svoje djece. Osnovna poruka zapovijedi je kako ispravan odnos među generacijama predstavlja temelj sreće i blagostanja u društvu.</note></rdg>
+						<rdg wit="#Mar">Poštuj oca i mater &amp;c.<note>Krug ljudi koji su svrstani u obitelj su: otac, mater, rodbina, stariji i starješine, a navode se samo grijesi koji karakteriziraju odnos mlađih prema starijima: uvrede, udaranje, ismijavanje, suprotstavljanje u zapovijedima, navođenje na srdžbu ili žalost.</note></rdg>
+						<rdg wit="#Ak">Poštuj oca tvoga i mater tvoju.
+						<note>Nalažu se poštovanje i ljubav prema ocu i majci, traži od mlađih, sluga i podložnika da poštuju svoje starije (u duhovnom i u tjelesnom smislu) i budu vjerni poglavarima. Autor ne izostavlja ni dužnosti roditelja i starijih da brinu o duhovnom i tjelesnom dobru djece, sluga i podložnika, tj. zabranjuje se njihovo vrijeđanje, nerazložito udaranje, psovanje i davanje lošeg primjera.</note></rdg>
+						<rdg wit="#Ig">Poštuj oca i mater.
+						<note>U najuži krug bližnjih uključuju se roditelji i djeca, sluge te osoba župnika. Autoritet i funkcija župnika potvrđuju njegovu duhovnu, ali i svjetovnu skrb o puku priprostu. Među grijesima i dužnostima roditelja i djece navodi se kako je grijeh i kada: „Mati koja brez uzroka svojim mlikom zadovoljno svoga diteta ne rani do treće godine ili zloj dojkinji svoje dijete dade“.</note></rdg>
+						<rdg wit="#Jl">Poštuj oca i mater.
+						<note>Nakon Boga prvi koji su dostojni poštovanja i ljubavi jesu otac i mati, zatim duhovnici i ostali. Dužnosti djece prema roditeljima su: ljubiti ih, poštovati, slušati i pomagati, s tim da iako mati podnosi više tereta oko odgoja djeteta i na neki način više ljubi dijete od oca, budući da je otac početak njegova života, dijete je dužno više ljubiti oca. Navode se i dužnosti roditelja i starijih prema djeci i mlađima: učiti ih nauk krstjanski, učiti ih ljucki živjeti u kući i na svakome mjestu, dati ih u školu, na zanat ili da nauče koji pošten posao s kojim će se moći prehranjivati i biti od koristi svojim starijima i dr., a naglasak je na strogom i asketskom odgoju. Od ostalih autoriteta spominju se župnik, gospodari, kraljevi i meštar (učitelj).</note></rdg>
+						<rdg wit="#Djr">Poštuj oca i mater.
+						<note>Posluh, poniženstvo i pomoć – tri su stvari koje svi sinovi i kćeri imaju iskazivati prema svojim roditeljima jer to znači poštivati četvrtu Božju zapovijed. Redovnik, očito upoznat s primjerima neizmjerne i bezuvjetne roditeljske ljubavi, objašnjava Satiru nepostojanje zapovijedi koja roditeljima nalaže da potpomažu djecu (osobito dok su malahani). Odnos poštovanja djece prema roditeljima Redovnik projicira i na druge odnose u društvu, kao što su: odnos mlađih prema misnicima (svećenicima), podložnika prema svojim poglavarima, sluga prema gospodarima, skulara prema meštrom, mladića prema starcima itd. Iako se prema načinu ophođenja može učiniti kako su učitelji jedan od najcjenjenijih društvenih slojeva, Rapićev Redovnik još veći ugled daje starješinama i starima pred kojima mlađi uvijek imaju kapu skinuti i na noge ustati.</note></rdg>	
+						<rdg wit="#Ep">Poštuj oca i mater da dugo živeš svrhu zemlje.
+						<note>Značenje zapovijedi definira se kroz dužnosti mlađih prema starijima i starijih prema mlađima. Od mlađih se traži da svoje starije ljube, poštuju, budu im poslušni, pomažu im, jer u suprotnom u Bibliji piše: Tko prokune svoga oca ili mater, smrćom imade umrti. Exod. 21. 17. Od starijih se pak traži da mlađe još od malena nauče živjeti u strahu Božjemu, da im u svemu daju dobar primjer, te da ne štede ljubeznivo pokarati njihova pomanjkanja: Tko štedi prut, nenavidi sina svoga, a tko miluje njega, nepristance ga svituje. Prov. 13. 24.</note></rdg>
+						<rdg wit="#Ab">Poštuj oca tvoga i mater tvoju da si dugovik svrhu zemlje koju će Gospodin Bog tvoj dati tebi.
+						<note>Briga za bližnjega počinje iskazivanjem ljubavi i poštovanja najprije prema obitelji – roditeljima, rodbini, skrbnicima – zatim prema starješinama duhovnim (biskupima, parocima, redovnicima), pa prema svjetovnim vladarima i, konačno, prema svakom iskrnjem, čije su namjere dobre i korisne. Obiteljski su odnosi u Bačićevu katekizmu definirani popisom dužnosti sinova prema roditeljima, roditelja prema sinovima, muža prema ženi, žene prema mužu i brata prema bratu. Svjetovnim je vladarima dužnost činiti pravdu podložnicima, držati ih u miru, braniti ih, dati mudre i učene suce i zapovjednike. Valja da ne vode nepravedan boj te da ne kazne pravedne, niti oproste krivim, osim „ako je koristan vilajetu“.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Poštuj oca tvoga i mater tvoju.<note></note></rdg>
+						<rdg wit="#Jm">Roditeljom i starijma, / Daj poštenje sinko svima, / Za mlađe se starij brini, / Da kao Božij živu sini.<note></note></rdg>
+						<rdg wit="#Iv">Poštuj oca tvoga i mater tvoju da budeš duga života svrhu zemlje koju će Gospodin Bog tvoj dati tebi.
+						<s>-</s>
+						<s>S roditeljma štovat stani.</s>
+						<note>Iako četvrta Božja zapovijed izrijekom spominje samo dužnost poštivanja oca i majke, njezino je značenje ipak znatno šire. Od dužnosti mlađih prema starijima navode se: a) dužnosti sinova i kćeri prema roditeljima (poštovanje, ljubav, savjetovanje, podložnost, pomoć...); b) dužnosti puka kršćanskoga prema pastirima duhovnim (primanje nauka, savjeta i sakramenata te davanje za hranu i odjeću); c) dužnosti puka prema kraljevima i poglavicama (poštenje, vjernost, posluh, ljubav, podložnost, harač, daća, molitva za njihovo zdravlje i mir te čestitost i napredovanje); d) dužnosti puka prema vojvodama i vladarima (poštenje i podložnost); e) dužnosti mladića prema starcima (poštenje i strpljenje); f) dužnosti siromaha prema bogatašima (zahvalnost prema onima koji ih pomažu, ali poštenje i molitva i za sve ostale, makar ih i progonili); g) dužnosti sluga i službenica prema svojim gospodarima i gospojama (poslušnost i krotkost u strahu i iskrenom služenju, čuvanje dobara i vjernost); h) dužnosti najmenika i majstora prema poslodavcima (vjernost, poštenje, ispunjenje danog obećanja o završetku posla) i i) dužnosti žena prema muževima (ljubav srdčana, a ne licemjerna, poslušnost, poštenje, podložnost, vjernost, strpljivost, pomoć, utjeha). S druge strane, Velikanović nabraja i dužnosti svih spomenutih kategorija starijih ili starišina prema mlađima, koje se općenito svode na ljubav, bdjenje, brigu, nauk, savjetovanje, zaštitu, obranu, pomoć, uzorno življenje, molitve i prošnje Bogu.</note></rdg>
+                  </app>
+				  </l>
+				  
+                  <l n="5">
+				  <app>
+						<rdg wit="#0Bsn">Ne ubij! (Izl 20,13; Pnz 5,17).<s>Čuli ste da je rečeno starima:" Ne ubij! Tko ubije, bit će podvrgnut sudu." A ja vam kažem: Svaki koji se srdi na brata svoga bit će podvrgnut sudu (Mt 5,21-22).</s><note>Temeljni zahtjev zapovijedi je poštivanje tuđeg života, odnosno zaštita ljudskog života. Izvorno je značenje zabrana bezrazložnog i neopravdanog ubojstva, ubijanje na vlastitu ruku (krvna odmazda), što će reći kako rat i smrtna kazna načelno nisu bili isključeni petom zapovijedi. Ona ne isključuje ni druge mogućnosti tjelesnog i duhovnog ubojstva kao što su izrabljivanje i tlačenje, kleveta (Jak 3,8). Židovski i kršćanski apologeti oštro su osuđivali pobačaj i ubijanje novorođenčadi.</note></rdg>
+						<rdg wit="#Mar">Ne ubij rukom ni jezikom.<note>Više je grijeha koji se navode u odnosu na „ubojite“ misli, želje i riječi (zavist, ogovaranje, zluradost) negoli na sam fizički čin ubojstva (on se uopće ne navodi). Spominje se tek ranjavanje ili sakaćenje kao oblik tjelesnog nanošenja zla.</note></rdg>
+						<rdg wit="#Ak">Ne ubij.<note>Iako se naglašava zabrana tjelesnog povređivanja bližnjega nepravednim ubojstvom, sakaćenjem, ranjavanjem ili teškim udarcima, jednaku težinu imaju zabrane nanošenja (psihičke, duševne) uvrede iskrnjega. Tako se zabranjuje uvrijediti bližnjega: mržnjom, srdžbom, zlim željama, proklinjanjem, psovanjem i vrijeđanjem. Zabranjuje se i ubojstvo duhovno, odnosno navođenje bližnjega na grijeh riječju ili djelom, a zapovijeda strpljivost, milosrđe i praštanje.</note></rdg>
+						<rdg wit="#Ig">Ne ubij.
+						<note>Osuda ubojstva sadržana u petoj Božjoj zapovijedi oprimjeruje se različitim grijesima protiv poštovanja ljudskog života, i to od samog njegovog početka u vidu sprečavanja začeća, pobačaja ili čedomorstva. Znakovita je količina prostora koju autor posvećuje grijesima ubojstva vezanim uz vojsku i vojnike.</note></rdg>
+						<rdg wit="#Jl">Ne ubij.
+						<note>Ubiti drugoga vrlo je velik grijeh, grijeh koji viče u nebo i zbog kojeg se Bog osvećuje. Uz to je veliki grijeh i samoubojstvo, stoga protiv pete zapovijedi griješe oni koji: drugome žele smrt, travama ili drugim likarijama čine da se dijete u majci ne začne ili da začeto ili rođeno umre, tuku svoje trudne žene, žene koje zbog nepažnje mnogo rade ili igraju pa zato pometnu (pobace), roditelji koji preko noći djecu stavljaju pokraj sebe pa se ona uguše i dr.</note></rdg>
+						<rdg wit="#Djr">Ne ubij.
+						<note>Ubojstvo čovjeka osobito je mrsko i odurno Bogu, s tim da nije grijeh ubiti marvinče ili živinu. Dok čovjek kao pojedinac ne smije ubiti zločinca ili velikog, očitog grešnika,  kad principi i poglavice zapovijede umoriti pustaije, lupeže i zločince – oni ne griješe. Samoubojicu bi sramota i isključenje iz zajednice mrtvih pratilo i nakon smrti. Uz ubojstvo peta zapovijed zabranjuje i sve drugo što bi ugrozilo ljubav bratinsku: raniti i tući bližnjega; srditost, nenavidost, osvetu.</note></rdg>			
+						<rdg wit="#Ep">Ne ubij rukom ni jezikom.
+						<note>Iako je peta zapovijed navedena u obliku Ne ubij rukom, ni jezikom, najveći je dio objašnjenja posvećen zabrani fizičkoga ubojstva čovjeka, tj. ljudomorstva. Međutim, ukoliko se ubojstvo dogodi, katekizam podržava starozavjetno kažnjavanje ubojice, dakle, smrtnu kaznu: Tko prolije krv čovičju, njegova također ima prolivena biti. Gen. 9. 6. Potom se spominje da protiv zapovijedi griješi i onaj koji svoga iskrnjega zlobi.</note></rdg>						
+						<rdg wit="#Ab">Ne ubij.
+						<note>Peta Božja zapovijed u Bačićevu katekizmu ne zabranjuje samo ubojstvo čovjeka, nego i misli, srdžbu i riječi protiv iskrnjega, čime se želi istaknuti vrijednost kako života, tako i časti. Zanimljivo je uočiti da nije svako ubojstvo grijeh, tj. autor razlikuje pravedna i nepravedna ubojstva. Među pravedna ubojstva ubraja: ubojstvo zločinca po pravdi ili sudskom smrtnom kaznom, ubojstvo da bi se obranio vlastiti život, čast, djevičanstvo i nehotično ubojstvo. Smrtno sagrješuju oni koji nagovaraju na ubojstvo, što bi se odnosilo i na pomaganje ženi u nastojanju da pobaci dijete, zatim koji izazivaju na mejdan te oni koji jako ranjavaju, odsijecaju koji ud ili imaju namjeru ubiti, raniti itd. Postoji još jedna vrsta ubojice koju navodi Bačić, a to je mormoratur – ubojica od poštenja.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ne ubij.<note></note></rdg>
+						<rdg wit="#Jm">Nikog z ričjom ne pogrdi, / Ne bij z rukom, nit se srdi, / Tko hoće se da posveti, / Nek se nikad ne osveti.<note></note></rdg>
+						<rdg wit="#Iv">Ne ubij.
+						<s>-</s>
+						<s>Nemoj ubit.</s>
+						<note>Peta zapovijed u Velikanovićevu katekizmu podjednako štiti i ljudski život i ljudsku čast, tj. zabranjuje da se naudi bilo tijelu, bilo duši bližnjega. Zabranu „Da nitko iskrnjega posobitom oblašću ne ubije“ autor objašnjava tako što iz nje izuzima svakodnevno ubijanje živine, ali i ubojstva naređena od vladara i sudaca, kao što je slučaj u pravednoj vojsci (ratu) ili kod smrtne kazne. Zabranjuje se samoubojstvo, udaranje, ranjavanje, proklinjanje, vrijeđanje (smutnja), zloba, zavist, srdžba, osveta bližnjemu, a zapovijeda ili propisuje ljubav, činjenje dobra i sl.</note></rdg>
+                  </app>
+				  </l>
+				  
+				  <l n="6">
+				  <app>
+						<rdg wit="#0Bsn">Ne učini <ref target="rjecnik.xml#6">preljuba</ref>! (Izl 20,14; Pnz 5,18).<s>Čuli ste da je rečeno: "Ne čini <ref target="rjecnik.xml#6">preljuba</ref>!" A ja vam kažem: Tko god s požudom pogleda ženu, već je s njome učinio preljub u srcu (Mt 5, 27-28).</s><note>Prvotna i stvarna briga šeste zapovijedi jest svetost braka i njegova zaštita. Afirmiraju se sljedeće okosnice braka: 1) ljubav kao osnovna svrha i srž braka, a prokreacija kao rezultat tog cilja; 2) recipročna bračna ljubav u kojoj su muž i žena potpuno jednakopravni; 3) neraskidiva ljubav i 4) ljubav ograničena na jednog muškarca i jednu ženu. Bračnom nevjernošću ili preljubom smatrali su se spolni odnosi s udatom ženom ili zaručnicom drugoga. Spolni odnosi oženjena čovjeka s neudatom ženom ili s prostitutkom nisu se kvalificirali kao preljub. SZ i židovstvo držali su <ref target="rjecnik.xml#6">preljub</ref> povredom vlasništva oženjena ili zaručena čovjkea, kao napad na njegov imetak. Uostalom, zadnja zapovijed Dekaloga pokazuje kako se žena uvrštavala u popis čovjekovih dobara, jednako kao kuća, sluge i dr. U NZ Isus je i na tom području potpuno izjednačio muškarca i ženu.</note></rdg>
+						<rdg wit="#Mar">
+						Ne sagriši bludno.
+						<note>Kao grijesi navode se bludne misli, želje, riječi i radnje iz muške perspektive: bludni grijeh s udatom ženom, djevojkom, udovicom, prosipanje naravnog simena, sramotno doticanje žene, djevojke, udovice i sl.</note>
+						</rdg>
+						<rdg wit="#Ak">Ne sagriši bludno.
+						<note>Šestom zapovijedi uglavnom se ukratko nastoje regulirati spolni odnosi, i to kroz zabranu priljubodinstva, ali i svakog putenog djela izvan braka, kao i unutar braka ako je drugim načinom negoli je Bog naredio. No, nisu samo putena djela predmet zabrane, ta zapovijed zabranjuje i: nepoštene riječi, pjesme, igre, poglede, doticanja i „ostala koja se među krstjanih ni imenovat nejmaju“. Nasuprot tome, zapovijeda se podstidno držanje i izbjegavanje nečistih misli i želja.</note></rdg>
+						<rdg wit="#Ig">Ne sagriši bludno.
+						<note>Kao grijeh bluda označuje se tjelesno sjedinjenje slobodna muškarca i slobodne žene izvan braka, ali i: gledanje, doticanje, grljenje, poljupci. Spolnost unutar bračne zajednice također podliježe nekim zahtjevima, a to su prije svega zahtjev vjernosti i plodnosti. Drugi načini povrede čistoće ili svetosti su: silovanje, rodoskvrnuće, povreda redovničkog celibata ili zavjeta čistoće, svetogrđe, homoseksualnost (navodi se samo muška), sodomija, „djelo puteno nečisto s duhom paklenim u priliki čovičjoj“ (?). Naglašava se prokreativna dimenzija spolnosti, ističe se vrlo negativno značenje naslade (užitka) kao druge dimenzije ljudske spolnosti, pa se grijehom protiv ćudoredna ponašanja proglašava samoblud (masturbacija) te druge radnje koje potiču naslađenje puteno.</note></rdg>
+						<rdg wit="#Jl">Ne sagriši bludno.
+						<note>Šesta zapovijed zabranjuje svako djelo kojim se vrijeđa čovjekovo poštenje. Među svim nečistim djelima najveći je grijeh priljubodinstvo (preljub), jer se njime čini nepravda sakramentu ženidbe. Ostali grijesi protiv ove zapovijedi su: grijeh puteni koji čini neoženjeni s neudatom, rodokvarje (rodoskvrnuće), svetokvarje (grijeh puteni s Bogu posvećenim drugom ili s duvnom), homoseksualnost, sodomija, masturbacija, gledanje/pjevanje/doticanje s nasladom i dr. Katekizam nabraja i načine kako se čuvati od bludnih misli i želja (npr. promišljati kratkoću nečistog naslađenja u usporedbi s mukama paklenim kao kaznom, pedipsati svoje tijelo bdjenjem, postom i ostalom pokorom...).</note></rdg>
+						<rdg wit="#Djr">Ne sagriši puteno.
+						<note>Grih puteni u Rapićevu se katekizmu predstavlja kao grijeh koji je izvor svih pomanjkanja; izrazito ružan, grub, pogan, živinski i opak. Zbog njegove ružnoće Redovnik kaže kako se stidi navoditi baš sve grijehe koje on obuhvaća, te izdvaja samo: priljubodinstvo (preljub), grijeh protiv zavjeta, puteno djelo s djevojkom ili udovicom, puteni grijeh s rođakinjom i puteni grijeh protiva naravi. Satir, čini se, prihvaća Redovnikovu diskreciju te ga pita o značenju tih grijeha koristeći se dijačkim (latinskim) nazivima: stuprum ili oskvrnjenje divičanstva, fornicatio ili putena maća, incestus ili vlastitoga rodstva omaćenje. Redovnik opravdava oportune zemaljske zakone koji su prema njemu mudri kad dopuštaju prostituciju.</note></rdg>						
+						<rdg wit="#Ep">Ne sagriši bludno.
+						<note>Za šestu se zapovijed kaže da zabranjuje puteni grijeh i svako tjelesno oskvrnjenje (Pazi se, sinak moj, od svake nečistoće. Tob. 4. 13.), a zapovijeda čuvanje čistoće.</note></rdg>						
+						<rdg wit="#Ab">U ovoj šestoj zabiliženoj u Knjiga Izhoda na pogl. 20. v. 14. [Ne učini <ref target="rjecnik.xml#6">preljuba</ref>! – prema Biblija, 2012.; op. I. P. ] zabranjuje sve što može poštenju čovičjemu nauditi, to jest zabranjuje se svako <ref target="rjecnik.xml#5">nečisto</ref> dilo puteno (...).
+						<note>Autor se poziva na vrijednost ljudskog poštenja, odnosno navodi kako zapovijed zabranjuje sve što može nauditi poštenju, tj. zabranjuje se: svako nečisto djelo puteno, želja, doticanje, grljenje, ljubljenje, sramotan pogled, sramotno govorenje i dr. Od griha putenije navodi se: smišanje puteno između dvoje slobodnih, silovanje, preljub..., a od griha protiva naravi ili o protuprirodnomu grijehu navode se samoblud, sodomija i smišanje z živinom.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ne sagriši bludno.<note></note></rdg>
+						<rdg wit="#Jm">Ne oskvrni tvoje tilo, /  Sve <ref target="rjecnik.xml#5">nečisto</ref> biži dilo, / Bludne riči i mišlenja, / Ona vode na činjenja.<note></note></rdg>
+						<rdg wit="#Iv">Ne sagriši bludno.
+						<s>-</s>
+						<s>Grišit bludno.</s>
+						<note>Upućenja katoličanska svoj govor o spolnosti temelje na govoru o grijesima bludnosti, kreposti čistoće i pokori za pojedine grijehe bluda. Šesta Božja zapovijed zabranjuje svaku vrstu bludnosti: bludnost priprostu, preljub, divosilje ili silovanje djevice, svetogrđe, rodoložje ili rodoskvrnuće, ugrabljenje žene za činiti s njom grijeh puteni, prosipanje simena (masturbaciju), sodomiju te sve ono što potiče i pobuđuje grijeh puteni. U katekizmu se spominju tri vrste čistoće: čistoća djevica (najizvrsnija), čistoća udovica i čistoća oženjenih i udatih, te brojni primjeri grijeha bludnosti.</note></rdg>
+                  </app>
+				  </l>
+
+				  <l n="7">
+				  <app>
+						<rdg wit="#0Bsn">Ne ukradi (Izl 20,15; Pnz 5,19).<s>Ne ukradi (Mt 19,18).</s><note>Dva su pravca u koja se grana sedma zapovijed: zabrana krađe ljudi i krađe dobara. Prije svega njome se štiti ljudska sloboda kao najveće čovjekovo dobro koje se narušava ropstvom, „krađom srca“ (demagogijom) i sl. Budući da vlasništvo omogućuje čovjeku slobodan i dostojanstven život, ova ga zapovijed dozvoljava i štiti. Međutim, ako se dobra svijeta zloupotrebljavaju na način da su sredstvo gospodarenja drugim ljudima, onda zakonodavstvo štiti robove i siromahe (npr. propisi o jubilejskoj godini, subotnjoj godini, pravu pabirčenja...). Biblija upozorava na razne oblike krađe: lihvarske kamate, zakidanja na vagi i u mjerama, nezakonito širenje zemljišnih posjeda i dr.</note></rdg>
+						<rdg wit="#Mar">Ne ukradi i ne poželi ništa tuđa.<note>Različiti su načini kako se griješi protiv ovih zapovijedi: krađom stvari, činjenjem štete tuđim dobrima (polju, livadi, marvi, vinogradu...), željom da se učini šteta bližnjemu u nekoj stvari, nepravednim tužbama i procesima, rasipanjem dobara na kartanje, kockanje i pijančevanje, uzimanjem kamate, nepoštenom trgovinom, neplaćanjem najmenika i dr.</note></rdg>
+						<rdg wit="#Ak">Ne ukradi.
+						<note>Zabrana krađe, nanošenja nepravedne štete materijalnim dobrima bližnjega te lijenosti pri ispunjavanju dužnosti – sve to sedma zapovijed osuđuje, a zapovijeda: naplatiti štetu, vratiti ukradenu i nađenu stvar te pomoći bližnjemu.</note></rdg>
+						<rdg wit="#Ig">Ne ukradi.
+						<note>Mnogi su načini kako se može nanijeti šteta dobrima bližnjega, stoga su brojni i primjeri grijeha protiv sedme zapovijedi (njih oko 40 na 8 stranica katekizma). Veći broj grijeha odnosi se na novac, tj. novčana poslovanja kojim se iz vlastitog interesa zakida dobro bližnjega. To se događa, primjerice, kod posuđivanja novca, prodaje i kupovine stvari kad se javljaju lihvarstvo, prijevara, podmićivanje i sl. Grličić se osvrće i na pojavu igara na sreću i oklada, s tim da ne smatra da su one same po sebi nepravedne, nego osuđuje nemoralna ponašanja poput varanja, prisiljavanja na igru i zaduživanja. Autor je nastojao puku dobro i potanko objasniti dužnost od povraćenja tuđih stvarih, navodeći niz situacija iz kojih bi trebalo nikoliko naukah svrhu toga u pamet uzet. Opisujući te primjere, uočava se Grličićev pragmatičniji pristup problemima, tj. u prvom planu nije moralno osuđivanje, nego poučavanje i upućivanje kako riješiti konkretne slučajeve da bi se zadovoljila i nebeska i zemaljska pravda.</note></rdg>
+						<rdg wit="#Jl">Ne ukradi.
+						<note>Uz život i poštenje, treće što čovjek najviše ljubi jesu njegova materijalna dobra, tj. stvari potrebne za život na zemlji. Tumačeći sedmu zapovijed Lipovčić navodi četiri najveća uzroka koja čovjeka potiču na krađu (npr. prignuće naravi na krađu, tj. navika zbog koje se kradljivci ne boje kazne) te brojne načine kojim se griješi protiv te zapovijedi. To su: prokuraturi i advokati koji brane nepravednu stvar, oni koji vladajući općinskim dobrima troše ista dobra za svoje potrebe, roditelji koji više od bogatstva daju jednome nego drugom djetetu, sluge i sluškinje koji kradu dosta jedžeka i pića od gospodara pa to daju svojim prijateljima ili ostave za sebe itd.</note></rdg>
+						<rdg wit="#Djr">Ne ukradi.
+						<note>Prema Rapićevu Redovniku protiv sedme Božje zapovijedi može se sagriješiti na dva glavna načina: krađom i silovitim otimanjem. Mnogo je oblika krađe; od zadržavanja tuđe stvari i nevraćanja njegovom gospodaru do raznih i brojnih slučajeva pri pogađanju, kupovanju i prodavanju stvari. Redovnik naglašava poštivanje zakona i uredbi određenog vilajeta (oblasti, pokrajine).</note></rdg>						
+						<rdg wit="#Ep">Ne ukradi.
+						<note>Sedma zapovijed zabranjuje krađu, odnosno zadržavanje stvari bez znanja pravoga gospodara te zapovijeda vratiti tuđe njegovu vlasniku. Sveti Pavao kaže: kradljivci neće uživati kraljestva nebeskoga. v. Cor. 6. 10.</note></rdg>						
+						<rdg wit="#Ab">(...) u ovoj naređuje da mu [iskrnjemu –op. I. P.] ne imamo nahuditi u dobrije njegovije, budući ukazao po apostolu u Pistoli prvoj Korinćanom pišući na pogl. 6. v. 10. [ni lopovi, ni lakomci, ni pijanci, ni klevetnici, ni razbojnici neće baštiniti kraljestva Božjega. – prema Biblija, 2012.; op. I. P.] da takvi ne mogu posidovati kraljestvo nebesko. 
+						<note>Na čak dvadeset stranica katekizma, kroz pet poglavlja i jednu erežiju tumači se značenje sedme Božje zapovijedi i grijeha kojima se ona krši. Načini kojima se čini šteta materijalnom stanju bližnjega su: krađa, vraćanje tuđih stvari, pogodba i kamata, prodavanje i kupovanje, družba ili ortakluk i testamenti. Vraćanje tuđega pravedno je djelo kojim se svakome vraća njegovo, bilo uzeto s grijehom ili bez grijeha. Međutim, nisu svi kršćani istog mišljenja kad je u pitanju vraćanje tuđega koje je ukradeno ili oteto. U tom kontekstu Bačić u okviru sedme Božje zapovijedi navodi i jednu erežiju raširenu među grčkim svećenicima. Ona se odnosi na odrješivanje od grijeha onih koji kradu, otimaju, po kamati primaju i dr. ukoliko njima, dakle svećenicima, daju dio onoga što su ukrali, oteli i sl. Takvo ponašanje autor primjećuje i kod domaćeg stanovništva pravoslavne vjeroispovijesti, tj. Vlaha.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ne ukradi.<note></note></rdg>
+						<rdg wit="#Jm">Ne ukradi tuđe stvari, / U ničemu ne privari; /  Jere grih se ne oprašća, / Gdi se tuđe ne povraća.<note></note></rdg>
+						<rdg wit="#Iv">Ne ukradi.
+						<s>-</s>
+						<s>Niti krasti.</s>
+						<note>Velikanović kaže kako se tuđa dobra uzimaju na razne načine: skrovito, varanjem i otimanjem na silu. Navode se kategorije ljudi i njima svojstveni oblici krađe: žene, sinovi i kćeri; sluge i službenice (obiteljska krađa); trgovci (krive mjere i dr.); vladari, suci, nadstojnici u javnim službama (odugovlačenje suđenja, mito...) i dr. Velikanović se naročito opširno osvrnuo na problem kamate, za koju kaže da je zabranjena svim vrstama zakona.</note></rdg>
+                  </app>
+				  </l>				  
+				  
+				  <l n="8">
+				  <app>
+						<rdg wit="#0Bsn">Ne svjedoči lažno na bližnjega svoga (Izl 20,16; Pnz 5,20).<s>Rečeno je starima: "Ne zaklinji se krivo, nego izvrši Gospodinu svoje zakletve" (Mt 5,33).</s><note>Jedan od važnih zadataka ove zapovijedi jest zaštiti međusobno ljudsko povjerenje. Izvorno značenje odnosilo se na zaštitu principa svetosti sudbenoga postupka, tj. zabranu svjesnog lažnog svjedočenja protiv bližnjega pred sudom. Prošireno značenje odnosi se na zabranu laži općenito, među koju se ubrajaju i kleveta i ogovaranje.</note></rdg>
+						<rdg wit="#Mar">Ne govori kriva svidočanstva protiva iskrnjemu tvome.<note>Osim laganja na sudu kojim se nanosi šteta bližnjemu, grijeh je i: otkrivati tuđe tajne, zavist, ogovaranje te ne obraniti poštenje drugoga kad se može.</note></rdg>
+						<rdg wit="#Ak">Ne reci krivo svidočanstvo protiva iskrnjemu tvomu.
+						<note>Osma zapovijed govori o poštivanju dostojanstva bližnjega, tj. protiv iskrnjega zabranjuje krivo svjedočenje i laganje na sudu i izvan njega, ozloglašenje, okrivljivanje i svaku laž, makar ona bila i na korist bližnjemu. Ono što zapovijeda jest: vratiti poštenje onima kojima je oduzeto, ne slušati tuđa ogovaranja i zabraniti ih kad je to moguće.</note></rdg>
+						<rdg wit="#Ig">Ne reci krivo svidočanstvo.
+						<note>U osmoj zapovijedi Bog zabranjuje one riječi ili govorenja kojima se može uvrijediti poštenje drugoga, a Grličić kaže kako se protiv nje sagrješuje govorenjem zlih djela bližnjega na sudu ili izvan njega ukoliko postoji sumnja da je to istina. Tuđe zlo djelo dopušteno je očitovati u situacijama kada to donosi više koristi nego štete. Svaka vrsta laži, makar se njome ostvarila korist sebi ili drugome, zabranjuje se, dok ozloglašenome svakako treba nastojati vratiti narušeni ugled.</note></rdg>
+						<rdg wit="#Jl">Ne reci kriva svidočanstva.
+						<note>Zabranjuju se sve one riječi kojima se može nepravedno uvrijediti poštenje drugoga. Jedan od najvećih grijeha je krivo svjedočenje, naročito ono na sudu jer njime se griješi protiv Boga, suca, bližnjega i skupštine. Protiv osme zapovijedi griješe oni koji: skrovito tuđe zlo ili pomanjkanje prokazuju drugima (osim ako je velika potreba, kao npr. starijemu očitovati pomanjkanje njegova mlađeg da ga može ukoriti ili od grijeha odvratiti), zlo govore za drugima (bilo istinu ili laž), pomažu ili potiču druge na ozloglašavanje itd. Nakon ozloglašenja autor izdvaja grijeh psovke koji također zabranjuje osma zapovijed.</note></rdg>
+						<rdg wit="#Djr">Ne reci krivo svidočanstvo.
+						<note>Ne reci krivo svidočanstvo Rapiću znači zabraniti: krivo svjedočiti, lagati te ugroziti tuđu čast i poštenje raznim načinima govorenja. Laž je toliko mrska Bogu da nisu dopuštene ni laž hasnovita ni laž isprazna, koje su bezopasne ili štoviše često korisne za bližnjega. Istina je iznad svega, pa i iznad ljubavi prema najbližima (ocu, majci, prijatelju). Najviše se prostora posvećuje govoru i osudi grijeha mormoranja (ogovaranja, klevete).</note></rdg>						
+						<rdg wit="#Ep">Ne reci kriva svidočanstva.
+						<note>Osmom zapovijedi zabranjuje se svaka laž, bilo u obliku krivog svjedočenja ili krivog zaklinjanja, pa makar to značilo i pomoći bližnjemu. Jednako tako zabranjeno je ogovaranje ili mrmljanje, baš kako kaže i sveti Jakov: Nemojte, braćo, jedan drugoga ogovarati, Jacob. 4. 11.</note></rdg>						
+						<rdg wit="#Ab">Ne reci suprot iskrnjemu tvomu krivo svidočanstvo.
+						<note>Laž, pogrđenje, podbunjivanje, poruganje i sl. – načini su povrede osme Božje zapovijedi, tj. istine, ljubavi i pravde u odnošenju prema Bogu i bližnjemu. Laž i krivo svjedočanstvo vežu se ponajprije uz sud, te se ističe dužnost govorenja istine na sudu, pogotovo ako se takvim svjedočenjem može pomoći iskrnjemu. Međutim, Bačić navodi i primjere kada čovjek nije dužan svjedočiti, odnosno kada se može ustegnuti od svjedočenja. Laž se razlikuje od pravde po tome što se razlikuje ono što se ima u pameti od onoga što se govori ili čini, te se mogu izdvojiti tri vrste laži: šaljiva, korisna i udeća.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ne reci krivo svidočanstvo protiva iskrnjemu tvomu.<note></note></rdg>
+						<rdg wit="#Jm">Kad svidočiš, pravo reci, / Krivine se sve odreci, / Ne zlo glasi, nit ne sudi, / Sama sebe sudac budi.<note></note></rdg>
+						<rdg wit="#Iv">Ne govori protiva iskrnjemu tvomu krivo svidočanstvo.
+						<s>-</s>
+						<s>Lagat hudno.</s>
+						<note>Kroz tumačenje osme zapovijedi ističe se pet načina kojima se bližnjega riječju može pogrditi ili učiniti krivim. To su: krivo svjedočanstvo, laž, zlogovorenje, blazenje ili unjegovanje i bezrazložna osuda ili sumnja. Krivo svjedočanstvo odnosi se na neistinit govor o bližnjemu, bilo na sudu ili izvan njega. Koji su tako sagriješili, dužni su oštećenome vratiti štetu, kako u materijalnim dobrima, tako i u poštenju, tj. vraćanjem dobrog glasa. Velikanović je posebno odrješit kad odbacuje opravdanost bilo kakve laži, jer za njega je svaka laž zla i nedopustiva.</note></rdg>
+                  </app>
+				  </l>				  
+				  
+				  <l n="9">
+				  <app>
+						<rdg wit="#0Bsn">Ne poželi kuće bližnjega svoga! Ne poželi žene bližnjega svoga; ni sluge njegova, ni sluškinje njegove, ni vola njegova, ni magarca njegova, niti išta što je bližnjega tvoga! (Izl 20, 17).
+						Ne poželi žene bližnjega svoga! Ne poželi kuće bližnjega svoga, ni njive njegove, ni sluge njegova, ni sluškinje njegove, ni vola njegova, ni magarca njegova, niti išta što je bližnjega tvoga (Pnz 5,21).<s>Tko god s požudom pogleda ženu, već je s njome učinio <ref target="rjecnik.xml#6">preljub</ref> u srcu (Mt 5, 28).</s><note>Uloga je devete i desete zapovijedi u sprečavanju grešnih žudnji i poriva, što se može postići kontrolom nagnuća, njihovim ispravnim usmjeravanjem i uljuđivanjem. U Knjizi Izlaska najprije se kaže: „Ne poželi kuće bližnjega svoga!“, s tim da se „kuća“ navodi u prenesenom značenju koje uključuje: ženu, slugu, sluškinju, vola... U Knjizi Ponovljenog zakona luči se žena od muževih posjeda i stavlja na početak, ispred „kuće“. Deveta zapovijed osuđuje grešnu požudu za tuđim bračnim drugom koja je usmjerena na <ref target="rjecnik.xml#6">preljub</ref>, a deseta nezasitnu pohlepu i grešnu zavist.</note></rdg>
+						<rdg wit="#Mar">-<note></note></rdg>
+						<rdg wit="#Ak">Ne poželi žene iskrnjega tvoga.<note>Nadovezujući se na šestu zapovijed, deveta zabranjuje ne samo želju za tuđim drugom, nego i razmišljanje i želju za onim stvarima koje su protiv šeste zapovijedi.</note></rdg>
+						<rdg wit="#Ig">Ne poželi tuđu ženu.
+						<note>Dva su načina kako se griješi protiv devete zapovijedi: nepoštenim mišljenjem i željenjem onih djela koja su zabranjena šestom zapovijedi.</note></rdg>
+						<rdg wit="#Jl">Ne poželi tuđega druga.
+						<note>Deveta Božja zapovijed nastavlja se na značenje šeste te zabranjuje nepoštene misli i želje. Pritom Lipovčić posebno izdvaja udovice i ostale žene koje smrtno griješe kada razmišljajući o djelima koja su činile s muževima osjećaju nasladu.</note></rdg>
+						<rdg wit="#Djr">Ne poželi tuđega druga.
+						<note>Zabranjuje se razmišljanje i želja za drugom ili ženom bližnjega, kao i za svim vrstama putenoga grijeha.</note></rdg>					
+						<rdg wit="#Ep">Ne poželi tuđega druga.
+						<note>Dopunjujući značenje šeste zapovijedi brani se svako nutarnje nečisto poželenje: iz srca izlaze zle misli, ubojstva, priljubodinstva, bludnosti, krađe, kriva svidočanstva, psovke. Matth. 15. 19.</note></rdg>						
+						<rdg wit="#Ab">Ne poželi žene iskrnjega tvoga.
+						<note>Ova zapovijed slaže se sa šestom zapovijedi, s tim da zabranjuje poželenja iznutarnja koja se odnose na puteni grijeh.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ne poželi žene iskrnjega tvoga.<note></note></rdg>
+						<rdg wit="#Jm">Ne poželi nepošteno, / Tuđeg druga muž i ženo <note></note></rdg>
+						<rdg wit="#Iv">Ne poželi ženu iskrnjega tvoga.
+						<s>-</s>
+						<s>Niti želi tuđu ženu.</s>
+						<note>Zabranjuje se željeti putene i bludne stvari te zlo misliti.</note></rdg>
+					</app>
+                  </l>				  
+				  
+				  <l n="10">
+				  <app>
+						<rdg wit="#0Bsn">Ne poželi kuće bližnjega svoga! Ne poželi žene bližnjega svoga; ni sluge njegova, ni sluškinje njegove, ni vola njegova, ni magarca njegova, niti išta što je bližnjega tvoga! (Izl 20, 17).
+						Ne poželi žene bližnjega svoga! Ne poželi kuće bližnjega svoga, ni njive njegove, ni sluge njegova, ni sluškinje njegove, ni vola njegova, ni magarca njegova, niti išta što je bližnjega tvoga (Pnz 5,21).<s>Doista, gdje ti je blago, ondje će ti biti i srce (Mt 6, 21).</s><note>Uloga je devete i desete zapovijedi u sprečavanju grešnih žudnji i poriva, što se može postići kontrolom nagnuća, njihovim ispravnim usmjeravanjem i uljuđivanjem. U Knjizi Izlaska najprije se kaže: „Ne poželi kuće bližnjega svoga!“, s tim da se „kuća“ navodi u prenesenom značenju koje uključuje: ženu, slugu, sluškinju, vola... U Knjizi Ponovljenog zakona luči se žena od muževih posjeda i stavlja na početak, ispred „kuće“. Deveta zapovijed osuđuje grešnu požudu za tuđim bračnim drugom koja je usmjerena na <ref target="rjecnik.xml#6">preljub</ref>, a deseta nezasitnu pohlepu i grešnu zavist.</note></rdg>
+						<rdg wit="#Mar">Ne ukradi i ne poželi ništa tuđa.<note>Različiti su načini kako se griješi protiv ovih zapovijedi: krađom stvari, činjenjem štete tuđim dobrima (polju, livadi, marvi, vinogradu...), željom da se učini šteta bližnjemu u nekoj stvari, nepravednim tužbama i procesima, rasipanjem dobara na kartanje, kockanje i pijančevanje, uzimanjem kamate, nepoštenom trgovinom, neplaćanjem najmenika i dr.</note></rdg>
+						<rdg wit="#Ak">Ne poželi nikakve tuđe stvari.
+						<note>Zabranjuje se želja za svime što zabranjuje sedma zapovijed, s tim da nije grijeh željeti na pravedan način imati neku stvar (npr. lijepu odjeću, konjića...).</note></rdg>
+						<rdg wit="#Ig">Ne poželi nijednu tuđu stvar.
+						<note>Zapovijeda se ne željeti tuđe stvari te zabranjuje krađa i ostali grijesi spomenuti u sedmoj zapovijedi.</note></rdg>
+						<rdg wit="#Jl">Ne poželi nikakve stvari od ovoga svita.
+						<note>Deseta zapovijed nadopunjuje značenje sedme i to zabranjujući želju za tuđim stvarima i dobrima, odnosno želju za svime onim što se zabranjuje sedmom zapovijedi.</note></rdg>
+						<rdg wit="#Djr">Ne poželi ikakovu tuđu stvar.
+						<note>Zapovijed sadrži zapriku želje za stvarima bližnjega – bilo imanja (novci, marva, žito i ostalo pokućstvo) ili stanja (sela, varoši, baština, kuća, dvorovi, salaši, zemlja, vinogradi, bašče, bostani i ostalo).</note></rdg>				
+						<rdg wit="#Ep">Ne poželi tuđeg imanja.<note>Nastavljajući se na sedmu zapovijed zabranjuje se želja za tuđim stvarima.</note></rdg>				
+						<rdg wit="#Ab">Ne poželi ženu iskrnjega tvoga, ni kuću, ni polje, ni slugu, ni službenicu, ni vola, ni osla, ni štogod je njegovo.
+						<note>Zabranjuje se željeti sve ono što se sedmom zapovijedi zabranjuje učiniti, tj. lakomost, zavist i zluradost.</note></rdg>
+						<!-- <rdg wit="#ep2">-<note></note></rdg> -->
+						<rdg wit="#Ajt">Ne poželi nikakve tuđe stvari.<note></note></rdg>
+						<rdg wit="#Jm">Niti koje tuđe stvari<note></note></rdg>
+						<rdg wit="#Iv">[Ne poželi] niti kuću, niti polje, niti slugu, niti službenicu, niti vola, niti magarca, i sva koja njegova jesu. Ne poželi kuću iskrnjega tvoga, ni slugu, ni službenicu, ni vola, ni magarca ni ostala koja njegova jesu.
+						<s>-</s>
+						<s>I stvar drugu zabranjenu.</s>
+						<note>Slično sedmoj zapovijedi i deseta Božja zapovijed govori o materijalnim dobrima, ali tako što zabranjuje da se tuđe stvari žele na štetu iskrnjega. Protiv ove zapovijedi najčešće griješe: trgovci, vojnici, likari, sudci, sinovi i kćeri koji nemaju milotvorno srce.</note></rdg>
+                  </app>
+					</l>				  
+               </lg>        
+         </div>
+      </body>  
+   </text>
+</TEI>
